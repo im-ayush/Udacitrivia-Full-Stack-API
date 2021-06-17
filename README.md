@@ -5,10 +5,10 @@
 - **Home**
 ![Home Page](https://github.com/im-ayush/Udacitrivia-Full-Stack-API/blob/master/project-screenshots/home.png)
 
-- **Home**
+- **Play Quiz**
 ![Play Quiz](https://github.com/im-ayush/Udacitrivia-Full-Stack-API/blob/master/project-screenshots/play1.png)
 
-- **Home**
+- **Quiz Question**
 ![Quiz Question](https://github.com/im-ayush/Udacitrivia-Full-Stack-API/blob/master/project-screenshots/play2.png)
 
 -----
